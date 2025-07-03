@@ -1,0 +1,35 @@
+body{
+background-color: white;
+background-image: url(13.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+}
+#p1{
+    color: black;
+    position: absolute;
+    left: 1400px;
+    top: 400px;
+}
+#video{
+    position: absolute;
+    left: 1400px;
+    top: 490px;
+}
+#p1{
+    border-style: solid;
+    position: absolute;
+    left: 1000px;
+}
+.teufel{
+    border-radius: 50%;
+    position: absolute;
+    left: 800px;
+    top: 150px;
+
+}
